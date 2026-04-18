@@ -1,0 +1,1 @@
+rootProject.name = "ShortForm-AI-Content-Creator"
